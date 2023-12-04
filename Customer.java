@@ -88,6 +88,4 @@ public class Customer {
         System.out.println("Slot Number: "+ slotNumber);
         System.out.println("=====================");
     }
-
-    // Other methods for exit, additional functionalities, etc.
 }
